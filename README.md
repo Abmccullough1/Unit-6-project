@@ -15,3 +15,25 @@
     - Github Classroom: Teachers create assignments that they give to students
     - LinkedIn: Companies create jobs that candidates apply to
     - Uber: Riders request rides, and a Driver provides rides
+
+
+ account:
+name: str
+properties: one to many
+password: str
+username: str
+email: str
+phone: int
+
+
+properties:
+price: int
+location: str
+condition: str
+size: int
+open/closed: bool
+
+
+
+
+
